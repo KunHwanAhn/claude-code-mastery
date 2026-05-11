@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment & Secrets
+.mcp.json
+
+# Local settings (personal preferences, not shared)
+*.local.*
+*.local
+
+# Version manager (asdf, mise)
+.tool-versions
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
